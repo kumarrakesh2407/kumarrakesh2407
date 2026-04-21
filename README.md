@@ -4,7 +4,7 @@
 ---
 
 ## 👋 Hi there, I'm Rakesh Kumar!  
-🚀 **Java Backend Developer**  
+🚀 **Java Full Stack Developer**  
 🎯 Dedicated to building scalable, high-performance applications with strong skills in DSA and System Design.
 
 ---
